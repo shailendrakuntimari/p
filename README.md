@@ -1,2 +1,3 @@
 # p
-to understand
+To understand github 
+and learn
